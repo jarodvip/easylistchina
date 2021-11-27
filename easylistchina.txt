@@ -20726,4 +20726,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||youku.com/cms/playlog/get?
 ||hjfile.cn/analytics/site/TrackEvent.js
 !---------------------------------Temporary-----------------------------------!
+auto.163.com###module-float-ask-price > div.mfap-expand:nth-child(2) > div.mfap-expand-bg:first-child
+auto.163.com###module-float-ask-price > div.mfap-expand:nth-child(2) > div.mfap-expand-inner:nth-child(2) > div.mfap-expand-logo:first-child
+auto.163.com###module-float-ask-price > div.mfap-expand:nth-child(2) > div.mfap-expand-inner:nth-child(2) > div.mfap-expand-select:last-child
 !----------------------------------The End------------------------------------!
